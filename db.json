@@ -46,7 +46,7 @@
     {
       "campaignDiscountRate": "",
       "campaignName": null,
-      "commodityCode": "AP10150",
+      "commodityCode": "AP10153",
       "commodityDescription": null,
       "commodityImage": "/autoflat/cms/images/0000/catalog/AP10150/AP10150_common.jpg",
       "commodityName": "トヨタ RAV4",
@@ -89,7 +89,7 @@
     {
       "campaignDiscountRate": "",
       "campaignName": null,
-      "commodityCode": "AP10150",
+      "commodityCode": "AP10152",
       "commodityDescription": null,
       "commodityImage": "/autoflat/cms/images/0000/catalog/AP10150/AP10150_common.jpg",
       "commodityName": "トヨタ RAV4",
@@ -132,7 +132,7 @@
     {
       "campaignDiscountRate": "",
       "campaignName": null,
-      "commodityCode": "AP10150",
+      "commodityCode": "AP10151",
       "commodityDescription": null,
       "commodityImage": "/autoflat/cms/images/0000/catalog/AP10150/AP10150_common.jpg",
       "commodityName": "トヨタ RAV4",
@@ -172,5 +172,6 @@
       "unitPriceTax": "3280",
       "volumeDiscountFlg": false
     }
-  ]
+  ],
+  "apiToken": [{ "result": { "data": { "value": "token" } } }]
 }
