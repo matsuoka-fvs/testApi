@@ -173,5 +173,5 @@
       "volumeDiscountFlg": false
     }
   ],
-  "apiToken": [{ "result": { "data": { "value": "token" } } }]
+  "apiToken": [{ "result": { "data": { "val": "token" } } }]
 }
