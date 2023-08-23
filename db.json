@@ -173,5 +173,57 @@
       "volumeDiscountFlg": false
     }
   ],
-  "apiToken": [{ "result": { "data": { "val": "token" } } }]
+  "apiToken": [{ "result": { "data": { "val": "token" } } }],
+  "carDetail": [
+    {
+      "result": {
+        "data": {
+          "commodityName": "ホンダ N BOX",
+          "commodityDescription": "上質な乗り味と低燃費を実現、さらに最新の安全性能を採用したクラスを超える魅力を持つコンパクトカー",
+          "selectLeasePrice": 20570,
+          "hontaiKin": 1335000,
+          "maxFuelCost": 27,
+          "teiin": 4,
+          "colorList": [
+            {
+              "colorImgfile": "/autoflat/cms/images/0000/catalog/AF30185/003-00030185-20230421-01-3.jpg"
+            },
+            {
+              "colorImgfile": "/autoflat/cms/images/0000/catalog/AF30185/003-00030185-20230421-01-3.jpg"
+            },
+            {
+              "colorImgfile": "/autoflat/cms/images/0000/catalog/AF30185/003-00030185-20230421-01-3.jpg"
+            }
+          ],
+          "linkUrl": "https://www.honda.co.jp/Nbox/",
+          "recommendPlanList": [
+            {
+              "planCode": "1",
+              "planName": "シンプルプラン",
+              "planCarCd": 68499,
+              "planColorCode": 3,
+              "recommendOptionList": [
+                {
+                  "planReopCode": "00010042",
+                  "planOptionName": "希望ナンバー"
+                },
+                {
+                  "planReopCode": "00010042",
+                  "planOptionName": "希望ナンバー"
+                },
+                {
+                  "planReopCode": "00010042",
+                  "planOptionName": "希望ナンバー"
+                }
+              ],
+              "planLeasePeriod": "9",
+              "planMaintenancePlan": "1",
+              "leasePrice": 20570,
+              "estimateEnableFlg": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
 }
