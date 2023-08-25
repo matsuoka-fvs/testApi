@@ -271,7 +271,60 @@
                 "untilPrice": ""
               }
             ]
-          }
+          },
+          "gradeList": [
+            {
+              "gradeLeaseChargeInfo": {
+                "monthlyLease1": 128200,
+                "monthlyLease2": 65200,
+                "monthlyLease3": 46900,
+                "monthlySpLease1": 128200,
+                "monthlySpLease2": 65200,
+                "monthlySpLease3": 46900
+              },
+              "gradeMainInfo": "G ガソリン DCVT 5ドア 27km/L 乗車定員4人",
+              "gradeSubInfo": "乗車定員4人",
+              "haiki": "660cc",
+              "hontaikin": "1,468,500円",
+              "kudoNm": "2WD",
+              "teiin": "4人",
+              "gradeColorList": [
+                {
+                  "colorCode": 3,
+                  "colorImgfile": "/images/newcar/brue-white.jpg",
+                  "colorName": "ルナシルバー・メタリック"
+                },
+                {
+                  "colorCode": 4,
+                  "colorImgfile": "/images/newcar/balack-red.jpg",
+                  "colorName": "クリスタルブラック・パール"
+                }
+              ]
+            },
+            {
+              "gradeLeaseChargeInfo": {
+                "monthlyLease1": 128200,
+                "monthlyLease2": 65200,
+                "monthlyLease3": 46900,
+                "monthlySpLease1": 128200,
+                "monthlySpLease2": 65200,
+                "monthlySpLease3": 46900
+              },
+              "gradeMainInfo": "L ガソリン DCVT 5ドア 27km/L 乗車定員4人",
+              "gradeSubInfo": "乗車定員4人",
+              "haiki": "660cc",
+              "hontaikin": "1,599,400円",
+              "kudoNm": "2WD",
+              "teiin": "4人",
+              "gradeColorList": [
+                {
+                  "colorCode": 1,
+                  "colorImgfile": "/images/newcar/balack-red.jpg",
+                  "colorName": "プレミアムサンライトホワイトパール"
+                }
+              ]
+            }
+          ]
         }
       }
     }
