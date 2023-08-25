@@ -172,8 +172,8 @@
               ]
             }
           ],
-          "depositeList": [{ "name": "なし" }, { "value": "1" }],
-          "bonusList": [{ "name": "なし" }, { "value": "1" }]
+          "depositeList": [{ "name": "なし", "value": "1" }],
+          "bonusList": [{ "name": "なし", "value": "1" }]
         }
       }
     }
