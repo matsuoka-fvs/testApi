@@ -208,11 +208,7 @@
                   "planOptionName": "希望ナンバー"
                 },
                 {
-                  "planReopCode": "00010042",
-                  "planOptionName": "希望ナンバー"
-                },
-                {
-                  "planReopCode": "00010042",
+                  "planReopCode": "00010058",
                   "planOptionName": "希望ナンバー"
                 }
               ],
@@ -221,7 +217,61 @@
               "leasePrice": 20570,
               "estimateEnableFlg": 0
             }
-          ]
+          ],
+          "repoMap": {
+            "jp.co.sint.webshop.data.dto.Parameter@2dfc637e": [
+              {
+                "description": "※他の選択項目は、「なし」のチェックを一度外してからお選びください。",
+                "leasePrice": 0,
+                "linkUrl": null,
+                "optionName": "なし（通常ナンバー）",
+                "repoCode": "00010042",
+                "reopGroup": 1,
+                "reopGroupName": "希望ナンバー",
+                "reopGroupImageUrl": "",
+                "shopeCode": "000",
+                "untilPrice": ""
+              },
+              {
+                "description": "自動車のナンバープレートに、お好きな番号をご指定いただけます。ご希望の",
+                "leasePrice": 10000,
+                "linkUrl": null,
+                "optionName": "一般希望ナンバー",
+                "repoCode": "00010042",
+                "reopGroup": 1,
+                "reopGroupName": "希望ナンバー",
+                "reopGroupImageUrl": "",
+                "shopeCode": "000",
+                "untilPrice": ""
+              }
+            ],
+            "jp.co.sint.webshop.data.dto.Parameter@2dfc637e": [
+              {
+                "description": "※他の選択項目は、「なし」のチェックを一度外してからお選びください。",
+                "leasePrice": 0,
+                "linkUrl": null,
+                "optionName": "なし",
+                "repoCode": "00010013",
+                "reopGroup": 2,
+                "reopGroupName": "おすすめオプションセット",
+                "reopGroupImageUrl": "",
+                "shopeCode": "000",
+                "untilPrice": ""
+              },
+              {
+                "description": "※他の選択項目は、「なし」のチェックを一度外してからお選びください。",
+                "leasePrice": 0,
+                "linkUrl": null,
+                "optionName": "【ホンダ】おすすめ純正オプション3点セット（ワイドスタンダードメモリーナビ「NMZN-W72D」）",
+                "repoCode": "00010050",
+                "reopGroup": 2,
+                "reopGroupName": "おすすめオプションセット",
+                "reopGroupImageUrl": "",
+                "shopeCode": "000",
+                "untilPrice": ""
+              }
+            ]
+          }
         }
       }
     }
