@@ -90,7 +90,7 @@
               "estimateEnableFlg": 0
             }
           ],
-          "repoMap": {
+          "reopMap": {
             "jp.co.sint.webshop.data.dto.Parameter@2dfc637e": [
               {
                 "leasePrice": 0,
