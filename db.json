@@ -57,13 +57,14 @@
           "teiin": 4,
           "colorList": [
             {
-              "colorImgfile": "/images/newcar/balack-red.jpg"
+              "colorCode": 3,
+              "colorImgfile": "/images/newcar/brue-white.jpg",
+              "colorName": "ルナシルバー・メタリック"
             },
             {
-              "colorImgfile": "/images/newcar/black.jpg"
-            },
-            {
-              "colorImgfile": "/images/newcar/brue-white.jpg"
+              "colorCode": 4,
+              "colorImgfile": "/images/newcar/balack-red.jpg",
+              "colorName": "クリスタルブラック・パール"
             }
           ],
           "linkUrl": "https://www.honda.co.jp/Nbox/",
