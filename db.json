@@ -76,10 +76,6 @@
               "planColorCode": 3,
               "recommendOptionList": [
                 {
-                  "planReopCode": "00010042",
-                  "planOptionName": "希望ナンバー"
-                },
-                {
                   "planReopCode": "00010050",
                   "planOptionName": "純正おすすめ３点セット"
                 }
