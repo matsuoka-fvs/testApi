@@ -175,5 +175,18 @@
         }
       }
     }
+  ],
+  "estimate": [
+    {
+      "result": {
+        "data": {
+          "estimateResult": {
+            "contract": {
+              "leasePrice": 100000
+            }
+          }
+        }
+      }
+    }
   ]
 }
