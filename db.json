@@ -125,7 +125,7 @@
           "gradeList": [
             {
               "gradeLeaseChargeInfo": {
-                "monthlyLease1": 128200,
+                "monthlyLease9": 128200,
                 "monthlySpLease1": 128200
               },
               "gradeMainInfo": "G ガソリン DCVT 5ドア 27km/L 乗車定員4人",
@@ -150,7 +150,7 @@
             },
             {
               "gradeLeaseChargeInfo": {
-                "monthlyLease1": 128200,
+                "monthlyLease9": 128200,
                 "monthlySpLease1": 128200
               },
               "gradeMainInfo": "L ガソリン DCVT 5ドア 27km/L 乗車定員4人",
