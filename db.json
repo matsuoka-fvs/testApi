@@ -50,7 +50,10 @@
       "result": {
         "data": {
           "commodityName": "ホンダ N BOX",
-          "commodityDescription": "上質な乗り味と低燃費を実現、さらに最新の安全性能を採用したクラスを超える魅力を持つコンパクトカー",
+          "commodityDetail": {
+            "commodityDescription": "上質な乗り味と低燃費を実現、さらに最新の安全性能を採用したクラスを超える魅力を持つコンパクトカー",
+            "commodityCode": "AF30185"
+          },
           "selectLeasePrice": 20570,
           "hontaiKin": 1335000,
           "maxFuelCost": 27,
